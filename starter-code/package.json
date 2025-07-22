@@ -1,0 +1,16 @@
+{
+  "name": "patient-lab-results",
+  "version": "1.0.0",
+  "description": "Patient Lab Results Viewer",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx http-server . -p 3000",
+    "dev": "npx http-server . -p 3000"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
