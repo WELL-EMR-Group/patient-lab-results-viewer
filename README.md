@@ -7,7 +7,7 @@ This repository contains a take-home coding exercise designed to evaluate Senior
 ## Exercise Structure
 
 ```
-health-data-analytics-takehome/
+patient-lab-viewer-takehome/
 ├── REQUIREMENTS.md              # Exercise instructions for candidates
 ├── starter-code/                # Basic project structure to get started
 │   ├── index.html              
