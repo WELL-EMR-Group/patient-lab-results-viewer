@@ -49,16 +49,17 @@ See `REQUIREMENTS.md` for full exercise details.
 
 ## Submission Instructions
 
-1. Create a new branch from the main branch (use a descriptive name, e.g., feature/lab-results-viewer-candidate-name).
-2. Complete the exercise in your new branch.
+1. Please follow these steps to submit your completed exercise:
+2. Fork this repository to your own GitHub account.
+3. Complete the exercise within your forked repository.
 3. Document the following in the file named AI_DECISIONS.md:
 - AI prompts, tools, and strategies used
 - Key architectural or technical decisions
 - Any assumptions or trade-offs made
 - Testing strategy to verify code quality and compliance
-4. Once finished, open a Pull Request (PR) targeting the main branch.
-- Use a clear, professional title 
-- Include a concise summary of your approach
+4. When finished, create a Pull Request (PR) from your fork to this repository with:
+- Clear and meaningful title 
+- Concise summary of your approach
 - Optionally add screenshots, demo video and test coverage notes
 
 Note: The PR and AI_DECISIONS.md file are both required for a complete submission and will be part of the evaluation.
