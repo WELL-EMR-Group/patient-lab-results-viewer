@@ -49,27 +49,24 @@ See `REQUIREMENTS.md` for full exercise details.
 
 ## Submission Instructions
 
-1. Please follow these steps to submit your completed exercise:
-2. Fork this repository to your own GitHub account.
-3. Complete the exercise within your forked repository.
-3. Document the following in the file named AI_DECISIONS.md:
-- AI prompts, tools, and strategies used
-- Key architectural or technical decisions
-- Any assumptions or trade-offs made
-- Testing strategy to verify code quality and compliance
-4. When finished, create a Pull Request (PR) from your fork to this repository with:
-- Clear and meaningful title 
-- Concise summary of your approach
-- Optionally add screenshots, demo video and test coverage notes
+1. Branch: Create a branch feature/<your-name> and do all your work there.
+2. Pull Request: Open a PR from your branch into main in your private repo.
+3. Include the following files:
+- AI_NOTES.md → AI usage details.
+- APPROACH.md → Architecture decisions, trade-offs, and setup notes.
 
-Note: The PR and AI_DECISIONS.md file are both required for a complete submission and will be part of the evaluation.
+Do NOT submit via public forks or external repos.
 
-## Setup for Distribution
 
-1. Provide only `REQUIREMENTS.md`, `starter-code/`, and `test-data/`
-2. Set up a submission method (GitHub)
-3. Expect 1-2 hours for completion
+## Confidentiality
+
+This is a private assignment.
+Do not share the assignment or the solution publicly.
+Do not submit via public pull requests.
+All work will remain private between you and the review team.
 
 ## Contact
 
-For questions about this exercise or evaluation process, contact the hiring team.
+For questions about this exercise, contact the hiring team.
+
+Good luck, and we look forward to reviewing your work!
